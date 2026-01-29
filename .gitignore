@@ -1,0 +1,78 @@
+# PlatformIO
+.pio/
+.vscode/
+*.elf
+*.hex
+*.bin
+
+# Arduino IDE
+*.hex
+build/
+*.cache
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Audio samples (large files)
+*.wav
+*.mp3
+*.flac
+
+# Model files (large)
+*.tflite
+*.pb
+
+# Backup files
+*.bak
+*.backup
+
+# Old project structure
+Independent build_Bass Guitar/
+legacy/*.wav
+legacy/*.cpp
+legacy/*.h
+!legacy/README.md
