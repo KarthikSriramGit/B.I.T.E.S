@@ -4,6 +4,7 @@
 
 *"Beats, Instruments, Technology, Embedded Systems"*
 
+Inspired by Queen, and the song Another One Bites the Dust,
 B.I.T.E.S is an open-source real-time embedded musical instrument platform for Teensy 4.1. Build professional-grade virtual instruments (Bass Guitar, Guitar, Keyboard, Drums) with AI-powered features, sensor fusion, and wireless connectivity. Perfect for musicians, makers, educators, and embedded systems enthusiasts.
 
 **Target:** Teensy 4.1 (IMXRT1062, 600MHz, 512KB RAM, 7.75MB Flash)  
